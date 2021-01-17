@@ -18,7 +18,7 @@ Checkout release branch.
 
 Pull upstream changes so that your local branch is even with upstream.
 
-`git pull https://github.com/AnimeThemes/animethemes-db-dump release-branch`
+`git pull upstream release-branch`
 
 Push upstream changes to your remote if needed.
 
@@ -71,7 +71,7 @@ Delete the remote feature branch.
 
 Pull upstream changes so that your local branch is even with upstream.
 
-`git pull https://github.com/AnimeThemes/animethemes-db-dump release-branch`
+`git pull upstream release-branch`
 
 Push upstream changes to your remote if needed.
 
