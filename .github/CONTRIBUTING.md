@@ -2,9 +2,9 @@
 
 Unless otherwise specified, any issue that does not have an assignee can be claimed by any volunteer.
 
-Please leave a comment in the issue indicating interest so that you can be designated as the assignee by a member. This is a requirement in Github to allow assignment of contributors outside of the organization by members. 
+Please leave a comment in the issue indicating interest so that you can be designated as the assignee by a member. This is a requirement in Github to allow assignment of contributors outside of the organization by members.
 
-If further discussion is needed before work can be started, please make use of the `#design` channel on the [**discord**](https://discordapp.com/invite/m9zbVyQ).
+If further discussion is needed before work can be started, please make use of the `#development` channel on the [**discord**](https://discordapp.com/invite/m9zbVyQ).
 
 ## Development Environment
 
